@@ -22,11 +22,7 @@ int main()
             printf("%d\n", vet[I]);
         }
         
-        
-        
     }
     
-    
-
     return 0;
 }
